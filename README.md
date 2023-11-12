@@ -11,7 +11,7 @@
    > Replace `<your_username>` with your actual GitHub username in the url below.
 
    ```bash
-   cd ta-test.git
+   cd ta-test-uhc.git
    git push --mirror git@github.com:<your_username>/ta-test-uhc.git
    ```
 
