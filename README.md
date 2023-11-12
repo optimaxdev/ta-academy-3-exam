@@ -27,4 +27,6 @@
    git clone git@github.com:<your_username>/ta-test-uhc.git
    ```
 
+   Check the current branch and switch to **master** if necessary
+
 6. Add collaborators in "Settings" => "Collaborators" page of your `ta-test-uhc` repository.
